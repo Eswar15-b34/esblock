@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EsBlock</string>
+    <string name="service_description">EsBlock detects Instagram Reels and YouTube Shorts screens and sends you back, so you can still use messages, profiles and normal videos. It only reads screen element names and never stores or sends any data.</string>
+    <string name="tagline">Block the scroll. Keep the rest.</string>
+    <string name="status_on">Protection is ON</string>
+    <string name="status_off">Protection is OFF</string>
+    <string name="status_off_hint">Turn on the EsBlock accessibility service to start blocking.</string>
+    <string name="status_on_hint">EsBlock is watching for short-video feeds.</string>
+    <string name="open_settings">Open accessibility settings</string>
+    <string name="block_instagram">Block Instagram Reels</string>
+    <string name="block_youtube">Block YouTube Shorts</string>
+    <string name="blocked_toast">Blocked by EsBlock</string>
+    <string name="blocked_count">Blocked so far: %1$d</string>
+    <string name="privacy_note">Everything runs on your phone. EsBlock has no internet access and collects nothing.</string>
+</resources>
